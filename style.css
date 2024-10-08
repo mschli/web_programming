@@ -1,0 +1,47 @@
+.box {
+    text-align: center;
+    font-size: 40px;
+    border-top: 1px solid blue;
+    width: 90px;
+    height: 89px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px
+}
+
+#a {
+    background-color: lightblue;
+}
+
+#b {
+    background-color: lightskyblue;
+}
+
+#c {
+    background-color: lightblue;
+}
+
+#d {
+    background-color: lightskyblue;
+}
+
+#e {
+    background-color: lightblue;
+}
+
+#f {
+    background-color: darkblue;
+    border: 4px solid black;
+    width: 82px;
+    height: 82px;
+    line-height: 82px;
+}
+
+
+/* width: 100 - 2 * padding (10) =  90*/
+/* height: 100 - 2 * padding (10) - border top (1) =  89*/
+
+/* widht: -8px */
+/* height: -3px - 4px */
