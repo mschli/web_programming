@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+}
+
+button {
+    margin: 2em;
+}
+
+#field {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    border: 5px solid gray;
+    padding: 0.5em;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+tr:first-child td {
+    border-top: none;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr td:first-child {
+    border-left: none;
+}
+
+tr td:last-child {
+    border-right: none;
+}
